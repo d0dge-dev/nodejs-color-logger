@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-color-logger",
+  "version": "3.0.0",
+  "description": "A simple but powerfull way to style the output of you logs with colors and also severall styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "colors",
+    "styles",
+    "console",
+    "node",
+    "logger",
+    "logs"
+  ],
+  "author": "d0dge-dev",
+  "license": "ISC"
+}
