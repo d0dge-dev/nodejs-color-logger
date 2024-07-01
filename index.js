@@ -166,4 +166,4 @@ class Logs {
     }
 }
 
-module.exports = Logs;
+module.exports = new Logs;
